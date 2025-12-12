@@ -156,16 +156,4 @@ Aunque requiere más atención al detalle, resulta un formato más moderno y com
 - **agregador_rss.png** – Visualización del feed RSS en el agregador.
 - **agregador_atom.png** – Visualización del feed Atom en el agregador.
 
-> Las imágenes se encuentran en la carpeta `/evidencias/` incluida en el ZIP.
-
-## 5. Lista con enlaces a los Prompts (si queréis feedback sobre uso de IA generativa)
-
-
----
-
-## 6. Entrega
-
-- Fichero .md de documentación completado a partir de la plantilla
-- Ficheros XML atom/RSS
-- carpeta con imágenes de las evidencias
-- Todo lo anterior en un .zip
+> Las imágenes se encuentran en la carpeta `/capturas/` incluida en el ZIP.
