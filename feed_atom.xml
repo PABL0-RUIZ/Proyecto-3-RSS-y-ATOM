@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Noticias TechBox y EduSys</title>
+  <subtitle>Últimas noticias de hardware, software y formación</subtitle>
+  <id>http://midominio.com/</id>
+  <updated>2025-12-03T18:15:00Z</updated>
+  <author>
+    <name>Equipo de Noticias</name>
+  </author>
+  <link href="http://midominio.com/feed_atom.xml" rel="self"/>
+  <link href="http://midominio.com/" rel="alternate"/>
+  <category term="Hardware"/>
+  <category term="Software"/>
+  <category term="Formación"/>
+
+  <!-- Noticia 1: Lanzamiento NAS -->
+  <entry>
+    <title>Lanzamiento del nuevo servidor NAS compacto</title>
+    <id>http://midominio.com/articulos/nas-compacto</id>
+    <link href="http://midominio.com/articulos/nas-compacto" rel="alternate" type="text/html"/>
+    <updated>2025-12-01T09:00:00Z</updated>
+    <published>2025-12-01T09:00:00Z</published>
+    <category term="Hardware"/>
+    <summary>El fabricante TechBox presenta un NAS doméstico de bajo consumo con soporte para RAID 1 y aplicaciones de contenedor. Ideal para copias de seguridad locales.</summary>
+    <author>
+      <name>Marta López</name>
+    </author>
+  </entry>
+
+  <!-- Noticia 2: Actualización panel web -->
+  <entry>
+    <title>Disponible la actualización 3.2 del panel de control web</title>
+    <id>http://midominio.com/articulos/actualizacion-3-2</id>
+    <link href="http://midominio.com/articulos/actualizacion-3-2" rel="alternate" type="text/html"/>
+    <updated>2025-12-02T14:30:00Z</updated>
+    <published>2025-12-02T14:30:00Z</published>
+    <category term="Software"/>
+    <summary>La versión 3.2 añade mejoras de rendimiento, soporte para temas oscuros y una API más robusta para desarrolladores.</summary>
+    <author>
+      <name>Carlos Vega</name>
+    </author>
+  </entry>
+
+  <!-- Noticia 3: Curso Linux -->
+  <entry>
+    <title>Nuevo curso gratuito de administración Linux</title>
+    <id>http://midominio.com/articulos/curso-linux</id>
+    <link href="http://midominio.com/articulos/curso-linux" rel="alternate" type="text/html"/>
+    <updated>2025-12-03T18:15:00Z</updated>
+    <published>2025-12-03T18:15:00Z</published>
+    <category term="Formación"/>
+    <summary>La plataforma EduSys publica un curso básico de administración Linux orientado a estudiantes de sistemas y usuarios autodidactas.</summary>
+    <author>
+      <name>Laura Sánchez</name>
+    </author>
+  </entry>
+
+</feed>

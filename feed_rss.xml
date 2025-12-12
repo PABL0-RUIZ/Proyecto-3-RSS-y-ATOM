@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noticias TechBox y EduSys</title>
+    <link>http://midominio.com/</link>
+    <description>Últimas noticias de hardware, software y formación</description>
+    <language>es</language>
+    <pubDate>Wed, 03 Dec 2025 18:15:00 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 18:15:00 GMT</lastBuildDate>
+    <atom:link href="http://midominio.com/feed_rss.xml" rel="self" type="application/rss+xml"/>
+    <category>Hardware, Software, Formación</category>
+
+    <!-- Noticia 1: Lanzamiento NAS -->
+    <item>
+      <title>Lanzamiento del nuevo servidor NAS compacto</title>
+      <link>http://midominio.com/articulos/nas-compacto</link>
+      <description>El fabricante TechBox presenta un NAS doméstico de bajo consumo con soporte para RAID 1 y aplicaciones de contenedor. Ideal para copias de seguridad locales.</description>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 GMT</pubDate>
+      <guid>http://midominio.com/articulos/nas-compacto</guid>
+      <author>Marta López</author>
+      <category>Hardware</category>
+    </item>
+
+    <!-- Noticia 2: Actualización panel web -->
+    <item>
+      <title>Disponible la actualización 3.2 del panel de control web</title>
+      <link>http://midominio.com/articulos/actualizacion-3-2</link>
+      <description>La versión 3.2 añade mejoras de rendimiento, soporte para temas oscuros y una API más robusta para desarrolladores.</description>
+      <pubDate>Tue, 02 Dec 2025 14:30:00 GMT</pubDate>
+      <guid>http://midominio.com/articulos/actualizacion-3-2</guid>
+      <author>Carlos Vega</author>
+      <category>Software</category>
+    </item>
+
+    <!-- Noticia 3: Curso Linux -->
+    <item>
+      <title>Nuevo curso gratuito de administración Linux</title>
+      <link>http://midominio.com/articulos/curso-linux</link>
+      <description>La plataforma EduSys publica un curso básico de administración Linux orientado a estudiantes de sistemas y usuarios autodidactas.</description>
+      <pubDate>Wed, 03 Dec 2025 18:15:00 GMT</pubDate>
+      <guid>http://midominio.com/articulos/curso-linux</guid>
+      <author>Laura Sánchez</author>
+      <category>Formación</category>
+    </item>
+
+  </channel>
+</rss>
